@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(72, 65, 65);
+}
+.parent{
+    padding: 0;
+    height: 311px;
+    width: 100%;
+    background-color: #710000;
+    position:sticky;
+}
+.child{
+    height: 204px;
+    width: 213px;
+    position: absolute;
+    left: 68px; ;
+    top: 209px;
+}
